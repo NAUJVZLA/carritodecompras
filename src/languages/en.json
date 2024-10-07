@@ -1,0 +1,19 @@
+{
+    "NavegacionGeneral": {
+        "usertitle": "Produts",
+        "BotonSession": "LogOut",
+        "title": "title"
+    },
+    "userprofile": {
+        "loading": "loading",
+        "loginmessage": "You must log in to see the user profile",
+        "title": "User profile",
+        "Name": "User name",
+        "Email": "User email",
+        "Image": "Profile photo"
+    },
+    "loginbutton": {
+        "signout": "Log Out",
+        "login": "Log In With Google Account"
+    }
+}

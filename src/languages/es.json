@@ -1,0 +1,20 @@
+{
+    "NavegacionGeneral": {
+        "usertitle": "Produtos",
+        "BotonSession": "Salir",
+        "title": "Titulo"
+    },
+    "userprofile": {
+        "loading": "Cargando",
+        "loginmessage": "Debes loguearte para ver tu perfil",
+        "title": "Perfil de usuario",
+        "Name": "Nombre",
+        "Email": "Email",
+        "Image": "Imagen"
+    },
+    "loginbutton": {
+        "usertitlse": "Conectado como",
+        "signout": "Cerrar sesión",
+        "login": "Ingresar con cuentra Google"
+    }
+}
